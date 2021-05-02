@@ -60,7 +60,19 @@
 }
 
 @media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 402px;
+  }
+
+  .u-section-1 .u-btn-1 {
+    margin-top: 34px;
+  }
+
+  .u-section-1 .u-btn-2 {
+    margin-top: 30px;
+  }
   .u-section-1 .u-icon-1 {
+    margin-top: 52px;
     margin-left: 305px;
   }
 }.u-section-2 {

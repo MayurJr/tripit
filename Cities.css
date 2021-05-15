@@ -1,94 +1,155 @@
 .u-section-1 .u-sheet-1 {
-  min-height: 211px;
+  min-height: 646px;
+}
+
+.u-section-1 .u-layout-wrap-1 {
+  pointer-events: auto;
+  margin-top: 34px;
+  margin-bottom: 60px;
+}
+
+.u-section-1 .u-image-1 {
+  min-height: 530px;
+  pointer-events: auto;
+  background-image: url("images/Life-Republic-township-Pune_Planet.jpg");
+  background-position: 50% 50%;
+  animation-duration: 1000ms;
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding: 30px 60px;
+}
+
+.u-section-1 .u-layout-cell-2 {
+  min-height: 550px;
+  pointer-events: auto;
+  background-image: linear-gradient(#4d4d4d, #1a1a1a);
+  animation-duration: 1000ms;
+}
+
+.u-section-1 .u-container-layout-2 {
+  padding: 30px 60px 26px;
+}
+
+.u-section-1 .u-text-1 {
+  margin: 0;
+}
+
+.u-section-1 .u-text-2 {
+  font-size: 1.125rem;
+  margin: 34px 0 0;
 }
 
 .u-section-1 .u-btn-1 {
+  text-transform: uppercase;
+  font-size: 0.875rem;
+  letter-spacing: 2px;
+  background-image: none;
   border-style: solid;
-  font-weight: 700;
-  font-size: 1rem;
-  letter-spacing: 1px;
-  animation-duration: 1000ms;
-  margin: 44px auto 0 0;
-  padding: 33px 45px 34px 44px;
+  margin: 62px auto 0 0;
+  padding: 10px 34px;
 }
 
 .u-section-1 .u-btn-2 {
+  text-transform: uppercase;
+  font-size: 0.875rem;
+  letter-spacing: 2px;
+  background-image: none;
   border-style: solid;
-  font-weight: 700;
-  font-size: 1rem;
-  letter-spacing: 1px;
-  animation-duration: 1000ms;
-  margin: -96px auto 0 186px;
-  padding: 33px 64px 34px;
+  margin: 20px auto 0 0;
+  padding: 10px 34px;
 }
 
-.u-section-1 .u-icon-1 {
-  height: 35px;
-  width: 35px;
-  margin: -65px auto 60px 395px;
+.u-section-1 .u-btn-3 {
+  text-transform: uppercase;
+  font-size: 0.875rem;
+  letter-spacing: 2px;
+  background-image: none;
+  border-style: solid;
+  margin: 20px auto 0 0;
+  padding: 10px 34px;
 }
 
 @media (max-width: 1199px) {
-  .u-section-1 .u-btn-1 {
-    margin-top: 161px;
+  .u-section-1 .u-sheet-1 {
+    min-height: 481px;
   }
 
-  .u-section-1 .u-btn-2 {
-    margin-left: 175px;
+  .u-section-1 .u-image-1 {
+    min-height: 437px;
   }
 
-  .u-section-1 .u-icon-1 {
-    margin-left: 358px;
+  .u-section-1 .u-layout-cell-2 {
+    min-height: 454px;
   }
 }
 
 @media (max-width: 991px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 418px;
+    min-height: 367px;
   }
 
-  .u-section-1 .u-btn-2 {
-    margin-left: 173px;
+  .u-section-1 .u-image-1 {
+    min-height: 335px;
   }
 
-  .u-section-1 .u-icon-1 {
-    margin-top: 67px;
+  .u-section-1 .u-container-layout-1 {
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+
+  .u-section-1 .u-layout-cell-2 {
+    min-height: 100px;
+  }
+
+  .u-section-1 .u-container-layout-2 {
+    padding-left: 30px;
+    padding-right: 30px;
   }
 }
 
 @media (max-width: 767px) {
-  .u-section-1 .u-btn-2 {
-    margin-left: 0;
+  .u-section-1 .u-sheet-1 {
+    min-height: 653px;
   }
 
-  .u-section-1 .u-icon-1 {
-    margin-top: -65px;
-    margin-left: 395px;
+  .u-section-1 .u-image-1 {
+    min-height: 503px;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-container-layout-2 {
+    padding-left: 10px;
+    padding-right: 10px;
   }
 }
 
 @media (max-width: 575px) {
-  .u-section-1 .u-btn-2 {
-    margin-top: 20px;
+  .u-section-1 .u-sheet-1 {
+    min-height: 446px;
   }
 
-  .u-section-1 .u-icon-1 {
-    margin-left: 305px;
+  .u-section-1 .u-image-1 {
+    min-height: 317px;
   }
 }.u-section-2 .u-sheet-1 {
-  min-height: 798px;
+  min-height: 646px;
 }
 
 .u-section-2 .u-layout-wrap-1 {
   pointer-events: auto;
-  width: 1080px;
-  margin: 60px auto;
+  margin-top: 34px;
+  margin-bottom: 60px;
 }
 
 .u-section-2 .u-image-1 {
-  min-height: 547px;
+  min-height: 530px;
   pointer-events: auto;
-  background-image: url("images/Life-Republic-township-Pune_Planet.jpg");
+  background-image: url("images/Gateway-monument-India-entrance-Mumbai-Harbour-coast.jpg");
   background-position: 50% 50%;
   animation-duration: 1000ms;
 }
@@ -98,25 +159,22 @@
 }
 
 .u-section-2 .u-layout-cell-2 {
-  min-height: 547px;
+  min-height: 627px;
   pointer-events: auto;
-  background-image: linear-gradient(#404040, #1a1a1a);
-  animation-duration: 1000ms;
+  background-image: linear-gradient(#4d4d4d, #1a1a1a);
 }
 
 .u-section-2 .u-container-layout-2 {
-  padding: 30px 60px 14px;
+  padding: 30px 60px 26px;
 }
 
 .u-section-2 .u-text-1 {
-  font-size: 3rem;
-  font-weight: normal;
-  margin: 0 auto 0 0;
+  margin: 0;
 }
 
 .u-section-2 .u-text-2 {
   font-size: 1.125rem;
-  margin: 45px auto 0 0;
+  margin: 36px 0 0;
 }
 
 .u-section-2 .u-btn-1 {
@@ -125,7 +183,7 @@
   letter-spacing: 2px;
   background-image: none;
   border-style: solid;
-  margin: 45px auto 0 0;
+  margin: 60px auto 0 0;
   padding: 10px 34px;
 }
 
@@ -135,7 +193,7 @@
   letter-spacing: 2px;
   background-image: none;
   border-style: solid;
-  margin: 18px auto 0 0;
+  margin: 20px auto 0 0;
   padding: 10px 34px;
 }
 
@@ -145,50 +203,31 @@
   letter-spacing: 2px;
   background-image: none;
   border-style: solid;
-  margin: 18px auto 0 0;
+  margin: 20px auto 0 0;
   padding: 10px 34px;
 }
 
 @media (max-width: 1199px) {
   .u-section-2 .u-sheet-1 {
-    min-height: 725px;
-  }
-
-  .u-section-2 .u-layout-wrap-1 {
-    width: 940px;
+    min-height: 481px;
   }
 
   .u-section-2 .u-image-1 {
-    min-height: 476px;
+    min-height: 437px;
   }
 
   .u-section-2 .u-layout-cell-2 {
-    min-height: 476px;
-  }
-
-  .u-section-2 .u-text-2 {
-    margin-top: 33px;
-    margin-left: auto;
-  }
-
-  .u-section-2 .u-btn-1 {
-    margin-top: 202px;
+    min-height: 517px;
   }
 }
 
 @media (max-width: 991px) {
   .u-section-2 .u-sheet-1 {
-    min-height: 855px;
-  }
-
-  .u-section-2 .u-layout-wrap-1 {
-    margin-right: initial;
-    margin-left: initial;
-    width: auto;
+    min-height: 367px;
   }
 
   .u-section-2 .u-image-1 {
-    min-height: 580px;
+    min-height: 335px;
   }
 
   .u-section-2 .u-container-layout-1 {
@@ -197,35 +236,27 @@
   }
 
   .u-section-2 .u-layout-cell-2 {
-    min-height: 580px;
+    min-height: 100px;
   }
 
   .u-section-2 .u-container-layout-2 {
     padding-left: 30px;
     padding-right: 30px;
   }
-
-  .u-section-2 .u-btn-1 {
-    margin-top: 18px;
-  }
 }
 
 @media (max-width: 767px) {
   .u-section-2 .u-sheet-1 {
-    min-height: 898px;
+    min-height: 653px;
   }
 
   .u-section-2 .u-image-1 {
-    min-height: 870px;
+    min-height: 503px;
   }
 
   .u-section-2 .u-container-layout-1 {
     padding-left: 10px;
     padding-right: 10px;
-  }
-
-  .u-section-2 .u-layout-cell-2 {
-    min-height: 100px;
   }
 
   .u-section-2 .u-container-layout-2 {
@@ -236,30 +267,26 @@
 
 @media (max-width: 575px) {
   .u-section-2 .u-sheet-1 {
-    min-height: 935px;
+    min-height: 446px;
   }
 
   .u-section-2 .u-image-1 {
-    min-height: 548px;
-  }
-
-  .u-section-2 .u-text-1 {
-    font-size: 1.5rem;
+    min-height: 317px;
   }
 }.u-section-3 .u-sheet-1 {
-  min-height: 798px;
+  min-height: 646px;
 }
 
 .u-section-3 .u-layout-wrap-1 {
   pointer-events: auto;
-  width: 1080px;
-  margin: -4px auto 60px;
+  margin-top: 34px;
+  margin-bottom: 60px;
 }
 
 .u-section-3 .u-image-1 {
-  min-height: 547px;
+  min-height: 530px;
   pointer-events: auto;
-  background-image: url("images/Gateway-monument-India-entrance-Mumbai-Harbour-coast.jpg");
+  background-image: url("images/shutterstock_1359416978.jpg");
   background-position: 50% 50%;
   animation-duration: 1000ms;
 }
@@ -269,25 +296,22 @@
 }
 
 .u-section-3 .u-layout-cell-2 {
-  min-height: 547px;
+  min-height: 627px;
   pointer-events: auto;
-  background-image: linear-gradient(#404040, #1a1a1a);
-  animation-duration: 1000ms;
+  background-image: linear-gradient(#4d4d4d, #1a1a1a);
 }
 
 .u-section-3 .u-container-layout-2 {
-  padding: 30px 60px 14px;
+  padding: 30px 60px 26px;
 }
 
 .u-section-3 .u-text-1 {
-  font-size: 3rem;
-  font-weight: normal;
   margin: 0;
 }
 
 .u-section-3 .u-text-2 {
   font-size: 1.125rem;
-  margin: 45px 0 0;
+  margin: 36px 0 0;
 }
 
 .u-section-3 .u-btn-1 {
@@ -296,7 +320,7 @@
   letter-spacing: 2px;
   background-image: none;
   border-style: solid;
-  margin: 45px auto 0 0;
+  margin: 60px auto 0 0;
   padding: 10px 34px;
 }
 
@@ -306,7 +330,7 @@
   letter-spacing: 2px;
   background-image: none;
   border-style: solid;
-  margin: 18px auto 0 0;
+  margin: 20px auto 0 0;
   padding: 10px 34px;
 }
 
@@ -316,50 +340,31 @@
   letter-spacing: 2px;
   background-image: none;
   border-style: solid;
-  margin: 18px auto 0 0;
+  margin: 20px auto 0 0;
   padding: 10px 34px;
 }
 
 @media (max-width: 1199px) {
   .u-section-3 .u-sheet-1 {
-    min-height: 725px;
-  }
-
-  .u-section-3 .u-layout-wrap-1 {
-    width: 940px;
+    min-height: 481px;
   }
 
   .u-section-3 .u-image-1 {
-    min-height: 476px;
+    min-height: 437px;
   }
 
   .u-section-3 .u-layout-cell-2 {
-    min-height: 476px;
-  }
-
-  .u-section-3 .u-text-2 {
-    margin-top: 33px;
-    margin-left: auto;
-  }
-
-  .u-section-3 .u-btn-1 {
-    margin-top: 202px;
+    min-height: 517px;
   }
 }
 
 @media (max-width: 991px) {
   .u-section-3 .u-sheet-1 {
-    min-height: 906px;
-  }
-
-  .u-section-3 .u-layout-wrap-1 {
-    margin-right: initial;
-    margin-left: initial;
-    width: auto;
+    min-height: 367px;
   }
 
   .u-section-3 .u-image-1 {
-    min-height: 698px;
+    min-height: 335px;
   }
 
   .u-section-3 .u-container-layout-1 {
@@ -368,39 +373,27 @@
   }
 
   .u-section-3 .u-layout-cell-2 {
-    min-height: 698px;
+    min-height: 100px;
   }
 
   .u-section-3 .u-container-layout-2 {
     padding-left: 30px;
     padding-right: 30px;
   }
-
-  .u-section-3 .u-text-2 {
-    margin-left: 0;
-  }
-
-  .u-section-3 .u-btn-1 {
-    margin-top: 25px;
-  }
 }
 
 @media (max-width: 767px) {
   .u-section-3 .u-sheet-1 {
-    min-height: 898px;
+    min-height: 653px;
   }
 
   .u-section-3 .u-image-1 {
-    min-height: 1047px;
+    min-height: 503px;
   }
 
   .u-section-3 .u-container-layout-1 {
     padding-left: 10px;
     padding-right: 10px;
-  }
-
-  .u-section-3 .u-layout-cell-2 {
-    min-height: 100px;
   }
 
   .u-section-3 .u-container-layout-2 {
@@ -411,189 +404,10 @@
 
 @media (max-width: 575px) {
   .u-section-3 .u-sheet-1 {
-    min-height: 986px;
+    min-height: 446px;
   }
 
   .u-section-3 .u-image-1 {
-    min-height: 659px;
-  }
-
-  .u-section-3 .u-text-1 {
-    font-size: 1.5rem;
-  }
-}.u-section-4 .u-sheet-1 {
-  min-height: 798px;
-}
-
-.u-section-4 .u-layout-wrap-1 {
-  pointer-events: auto;
-  width: 1080px;
-  margin: 27px auto 60px;
-}
-
-.u-section-4 .u-image-1 {
-  min-height: 547px;
-  pointer-events: auto;
-  background-image: url("images/shutterstock_1359416978.jpg");
-  background-position: 50% 50%;
-  animation-duration: 1000ms;
-}
-
-.u-section-4 .u-container-layout-1 {
-  padding: 30px 60px;
-}
-
-.u-section-4 .u-layout-cell-2 {
-  min-height: 547px;
-  pointer-events: auto;
-  background-image: linear-gradient(#404040, #1a1a1a);
-  animation-duration: 1000ms;
-}
-
-.u-section-4 .u-container-layout-2 {
-  padding: 30px 60px 14px;
-}
-
-.u-section-4 .u-text-1 {
-  font-size: 3rem;
-  font-weight: normal;
-  margin: 0;
-}
-
-.u-section-4 .u-text-2 {
-  font-size: 1.125rem;
-  margin: 45px 0 0;
-}
-
-.u-section-4 .u-btn-1 {
-  text-transform: uppercase;
-  font-size: 0.875rem;
-  letter-spacing: 2px;
-  background-image: none;
-  border-style: solid;
-  margin: 45px auto 0 0;
-  padding: 10px 34px;
-}
-
-.u-section-4 .u-btn-2 {
-  text-transform: uppercase;
-  font-size: 0.875rem;
-  letter-spacing: 2px;
-  background-image: none;
-  border-style: solid;
-  margin: 18px auto 0 0;
-  padding: 10px 34px;
-}
-
-.u-section-4 .u-btn-3 {
-  text-transform: uppercase;
-  font-size: 0.875rem;
-  letter-spacing: 2px;
-  background-image: none;
-  border-style: solid;
-  margin: 18px auto 0 0;
-  padding: 10px 34px;
-}
-
-@media (max-width: 1199px) {
-  .u-section-4 .u-sheet-1 {
-    min-height: 725px;
-  }
-
-  .u-section-4 .u-layout-wrap-1 {
-    width: 940px;
-  }
-
-  .u-section-4 .u-image-1 {
-    min-height: 476px;
-  }
-
-  .u-section-4 .u-layout-cell-2 {
-    min-height: 476px;
-  }
-
-  .u-section-4 .u-text-2 {
-    margin-top: 33px;
-    margin-left: auto;
-  }
-
-  .u-section-4 .u-btn-1 {
-    margin-top: 202px;
-  }
-}
-
-@media (max-width: 991px) {
-  .u-section-4 .u-sheet-1 {
-    min-height: 938px;
-  }
-
-  .u-section-4 .u-layout-wrap-1 {
-    margin-right: initial;
-    margin-left: initial;
-    width: auto;
-  }
-
-  .u-section-4 .u-image-1 {
-    min-height: 706px;
-  }
-
-  .u-section-4 .u-container-layout-1 {
-    padding-left: 30px;
-    padding-right: 30px;
-  }
-
-  .u-section-4 .u-layout-cell-2 {
-    min-height: 706px;
-  }
-
-  .u-section-4 .u-container-layout-2 {
-    padding-left: 30px;
-    padding-right: 30px;
-  }
-
-  .u-section-4 .u-text-2 {
-    margin-left: 0;
-  }
-
-  .u-section-4 .u-btn-1 {
-    margin-top: 27px;
-  }
-}
-
-@media (max-width: 767px) {
-  .u-section-4 .u-sheet-1 {
-    min-height: 898px;
-  }
-
-  .u-section-4 .u-image-1 {
-    min-height: 1059px;
-  }
-
-  .u-section-4 .u-container-layout-1 {
-    padding-left: 10px;
-    padding-right: 10px;
-  }
-
-  .u-section-4 .u-layout-cell-2 {
-    min-height: 100px;
-  }
-
-  .u-section-4 .u-container-layout-2 {
-    padding-left: 10px;
-    padding-right: 10px;
-  }
-}
-
-@media (max-width: 575px) {
-  .u-section-4 .u-sheet-1 {
-    min-height: 1018px;
-  }
-
-  .u-section-4 .u-image-1 {
-    min-height: 667px;
-  }
-
-  .u-section-4 .u-text-1 {
-    font-size: 1.5rem;
+    min-height: 317px;
   }
 }

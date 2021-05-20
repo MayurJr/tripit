@@ -1,0 +1,413 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 646px;
+}
+
+.u-section-1 .u-layout-wrap-1 {
+  pointer-events: auto;
+  margin-top: 34px;
+  margin-bottom: 60px;
+}
+
+.u-section-1 .u-image-1 {
+  min-height: 530px;
+  pointer-events: auto;
+  background-image: url("images/Life-Republic-township-Pune_Planet.jpg");
+  background-position: 50% 50%;
+  animation-duration: 1000ms;
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding: 30px 60px;
+}
+
+.u-section-1 .u-layout-cell-2 {
+  min-height: 550px;
+  pointer-events: auto;
+  background-image: linear-gradient(#4d4d4d, #1a1a1a);
+  animation-duration: 1000ms;
+}
+
+.u-section-1 .u-container-layout-2 {
+  padding: 30px 60px 26px;
+}
+
+.u-section-1 .u-text-1 {
+  margin: 0;
+}
+
+.u-section-1 .u-text-2 {
+  font-size: 1.125rem;
+  margin: 34px 0 0;
+}
+
+.u-section-1 .u-btn-1 {
+  text-transform: uppercase;
+  font-size: 0.875rem;
+  letter-spacing: 2px;
+  background-image: none;
+  border-style: solid;
+  margin: 62px auto 0 0;
+  padding: 10px 34px;
+}
+
+.u-section-1 .u-btn-2 {
+  text-transform: uppercase;
+  font-size: 0.875rem;
+  letter-spacing: 2px;
+  background-image: none;
+  border-style: solid;
+  margin: 20px auto 0 0;
+  padding: 10px 34px;
+}
+
+.u-section-1 .u-btn-3 {
+  text-transform: uppercase;
+  font-size: 0.875rem;
+  letter-spacing: 2px;
+  background-image: none;
+  border-style: solid;
+  margin: 20px auto 0 0;
+  padding: 10px 34px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 481px;
+  }
+
+  .u-section-1 .u-image-1 {
+    min-height: 437px;
+  }
+
+  .u-section-1 .u-layout-cell-2 {
+    min-height: 454px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 367px;
+  }
+
+  .u-section-1 .u-image-1 {
+    min-height: 335px;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+
+  .u-section-1 .u-layout-cell-2 {
+    min-height: 100px;
+  }
+
+  .u-section-1 .u-container-layout-2 {
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 653px;
+  }
+
+  .u-section-1 .u-image-1 {
+    min-height: 503px;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-container-layout-2 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 446px;
+  }
+
+  .u-section-1 .u-image-1 {
+    min-height: 317px;
+  }
+}.u-section-2 .u-sheet-1 {
+  min-height: 646px;
+}
+
+.u-section-2 .u-layout-wrap-1 {
+  pointer-events: auto;
+  margin-top: 34px;
+  margin-bottom: 60px;
+}
+
+.u-section-2 .u-image-1 {
+  min-height: 530px;
+  pointer-events: auto;
+  background-image: url("images/Gateway-monument-India-entrance-Mumbai-Harbour-coast.jpg");
+  background-position: 50% 50%;
+  animation-duration: 1000ms;
+}
+
+.u-section-2 .u-container-layout-1 {
+  padding: 30px 60px;
+}
+
+.u-section-2 .u-layout-cell-2 {
+  min-height: 627px;
+  pointer-events: auto;
+  background-image: linear-gradient(#4d4d4d, #1a1a1a);
+}
+
+.u-section-2 .u-container-layout-2 {
+  padding: 30px 60px 26px;
+}
+
+.u-section-2 .u-text-1 {
+  margin: 0;
+}
+
+.u-section-2 .u-text-2 {
+  font-size: 1.125rem;
+  margin: 36px 0 0;
+}
+
+.u-section-2 .u-btn-1 {
+  text-transform: uppercase;
+  font-size: 0.875rem;
+  letter-spacing: 2px;
+  background-image: none;
+  border-style: solid;
+  margin: 60px auto 0 0;
+  padding: 10px 34px;
+}
+
+.u-section-2 .u-btn-2 {
+  text-transform: uppercase;
+  font-size: 0.875rem;
+  letter-spacing: 2px;
+  background-image: none;
+  border-style: solid;
+  margin: 20px auto 0 0;
+  padding: 10px 34px;
+}
+
+.u-section-2 .u-btn-3 {
+  text-transform: uppercase;
+  font-size: 0.875rem;
+  letter-spacing: 2px;
+  background-image: none;
+  border-style: solid;
+  margin: 20px auto 0 0;
+  padding: 10px 34px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 481px;
+  }
+
+  .u-section-2 .u-image-1 {
+    min-height: 437px;
+  }
+
+  .u-section-2 .u-layout-cell-2 {
+    min-height: 517px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 367px;
+  }
+
+  .u-section-2 .u-image-1 {
+    min-height: 335px;
+  }
+
+  .u-section-2 .u-container-layout-1 {
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+
+  .u-section-2 .u-layout-cell-2 {
+    min-height: 100px;
+  }
+
+  .u-section-2 .u-container-layout-2 {
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 653px;
+  }
+
+  .u-section-2 .u-image-1 {
+    min-height: 503px;
+  }
+
+  .u-section-2 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-2 .u-container-layout-2 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 446px;
+  }
+
+  .u-section-2 .u-image-1 {
+    min-height: 317px;
+  }
+}.u-section-3 .u-sheet-1 {
+  min-height: 646px;
+}
+
+.u-section-3 .u-layout-wrap-1 {
+  pointer-events: auto;
+  margin-top: 34px;
+  margin-bottom: 60px;
+}
+
+.u-section-3 .u-image-1 {
+  min-height: 530px;
+  pointer-events: auto;
+  background-image: url("images/shutterstock_1359416978.jpg");
+  background-position: 50% 50%;
+  animation-duration: 1000ms;
+}
+
+.u-section-3 .u-container-layout-1 {
+  padding: 30px 60px;
+}
+
+.u-section-3 .u-layout-cell-2 {
+  min-height: 627px;
+  pointer-events: auto;
+  background-image: linear-gradient(#4d4d4d, #1a1a1a);
+}
+
+.u-section-3 .u-container-layout-2 {
+  padding: 30px 60px 26px;
+}
+
+.u-section-3 .u-text-1 {
+  margin: 0;
+}
+
+.u-section-3 .u-text-2 {
+  font-size: 1.125rem;
+  margin: 36px 0 0;
+}
+
+.u-section-3 .u-btn-1 {
+  text-transform: uppercase;
+  font-size: 0.875rem;
+  letter-spacing: 2px;
+  background-image: none;
+  border-style: solid;
+  margin: 60px auto 0 0;
+  padding: 10px 34px;
+}
+
+.u-section-3 .u-btn-2 {
+  text-transform: uppercase;
+  font-size: 0.875rem;
+  letter-spacing: 2px;
+  background-image: none;
+  border-style: solid;
+  margin: 20px auto 0 0;
+  padding: 10px 34px;
+}
+
+.u-section-3 .u-btn-3 {
+  text-transform: uppercase;
+  font-size: 0.875rem;
+  letter-spacing: 2px;
+  background-image: none;
+  border-style: solid;
+  margin: 20px auto 0 0;
+  padding: 10px 34px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 481px;
+  }
+
+  .u-section-3 .u-image-1 {
+    min-height: 437px;
+  }
+
+  .u-section-3 .u-layout-cell-2 {
+    min-height: 517px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 367px;
+  }
+
+  .u-section-3 .u-image-1 {
+    min-height: 335px;
+  }
+
+  .u-section-3 .u-container-layout-1 {
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+
+  .u-section-3 .u-layout-cell-2 {
+    min-height: 100px;
+  }
+
+  .u-section-3 .u-container-layout-2 {
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 653px;
+  }
+
+  .u-section-3 .u-image-1 {
+    min-height: 503px;
+  }
+
+  .u-section-3 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-3 .u-container-layout-2 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 446px;
+  }
+
+  .u-section-3 .u-image-1 {
+    min-height: 317px;
+  }
+}

@@ -1,5 +1,10 @@
 # TripIt
 
+## Live View:
+[TripIt](https://mayurjr.github.io/tripit/)
+
+---
+
 ## Project Overview
 **TripIt** is a static website project built using HTML, CSS, and JavaScript (with jQuery), aimed at offering travel-related information such as city guides, hotels, activities, feedback forms, FAQs, and more.
 
